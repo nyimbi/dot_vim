@@ -1,6 +1,7 @@
 # dot_vim
-== my .vim setup ==
+ **my .vim setup **
 to use 
+
 git clone https://github.com/nyimbi/dot_vim.git ~/.vim
 
 optimized for editing LaTeX sources, node, typescript, python and other programming languages.
